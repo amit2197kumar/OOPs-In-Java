@@ -183,5 +183,7 @@ Encapsulation in Java is a mechanism to wrap up variables(data) and methods(code
 
 [Difference Between Cohesion and Coupling](https://stackoverflow.com/questions/3085285/difference-between-cohesion-and-coupling)
 
+[Java Classes, Coupling, Interfaces, Encapsulation, Abstraction, Inheritance, Polymorphism & UML - Code with Mosh](https://youtu.be/NU_1StN5Tkk)
+
 
 **Original File Link [[Notion](https://www.notion.so/OOPs-a9d567edfb934d1cb18420463592ca5e)]**
